@@ -1,0 +1,14 @@
+GivenName;Surname;Description;Name;SamAccountName;UserPrincipalName;DisplayName
+Jakke;Jäynä;IT-tuki;Jakke Jäynä;jakke.jayna;jakke.jayna@firma.intra;Jakke Jäynä
+Calle;Keckelberg;Tietohallintopäällikkö;Calle Keckelberg;calle.keckelberg;calle.keckelberg@firma.intra;Calle Keckelberg
+Assi;Kalma;Talousjohtaja;Assi Kalma;assi.kalma;assi.kalma@firma.intra;Assi Kalma
+Sebastian;Salama;Autonkuljettaja;Sebastian Salama;sebastian.salama;sebastian.salama@firma.intra;Sebastian Salama
+Jaana;Jäätävä;Markkinointiassistentti;Jaana Jäätävä;jaana.jaatava;jaana.jaatava@firma.intra;Jaana Jäätävä
+Kunto;Kalpa;Myyntipäällikkö;Kunto Kalpa;kunto.kalpa;kunto.kalpa@firma.intra;Kunto Kalpa
+Uolevi;Untamo;Full stack developper;Uolevi Untamo;uolevi.untamo;uolevi.untamo@firma.intra;Uolevi Untamo
+Hemmo;Henriksson;DB designer;Hemmo Henriksson;hemmo.henriksson;hemmo.henriksson@firma.intra;Hemmo Henriksson
+Henna;Henriksson-Nyyssönen;Suunnitteluassistentti;Henna Henriksson-Nyyssönen;henna.henriksson-nyy;henna.henriksson-nyyssonen@firma.intra;Henna Henriksson-Nyyssönen
+Iina;Ikonen;Tuotantopäällikkö;Iina Ikonen;iina.ikonen;iina.ikonen@firma.intra;Iina Ikonen
+Ossi;Ikävaara;Koneenhoitaja;Ossi Ikävaara;ossi.ikavaara;ossi.ikavaara@firma.intra;Ossi Ikävaara
+Evert;Könönen;Varastopäällikkö;Evert Könönen;evert.kononen;evert.kononen@firma.intra;Evert Könönen
+Ylermi;Yrjökoskinen;Työterveyslääkäri;Ylermi Yrjökoskinen;ylermi.yrjokoskinen;ylermi.yrjokoskinen@firma.intra;Ylermi Yrjökoskinen
